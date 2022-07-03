@@ -1,0 +1,9 @@
+:root {
+  background: lightcoral;
+  color: #201;
+}
+
+:any-link {
+  color: coral;
+  background: indigo;
+}
